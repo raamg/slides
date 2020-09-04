@@ -30,3 +30,5 @@ color-6: '##1abc9c'
 color-7: '##1abc9c'
 color-8: '##1abc9c'
 
+
+theme: jekyll-theme-time-machine
